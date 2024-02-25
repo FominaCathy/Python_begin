@@ -1,0 +1,4 @@
+Elephant,Yosya,12121,elephant in africa
+Dog,Mu-mu,2278,dog in river
+Cat,Kuzma,998,cat in Tumen
+Cow,Murka,8756,cow in Ryazan

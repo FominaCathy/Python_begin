@@ -1,0 +1,7 @@
+Cat,Tom,111,cat in home
+Mouse,Jerry,222,mouse in home
+Woman,Lulu,333,owner in home
+Dog,Bobik,666,dog in owner
+Elephant,Yosya,12121,elephant in africa
+Cat,Kuzma,998,cat in Tumen
+Cow,Murka,8756,cow in Ryazan
